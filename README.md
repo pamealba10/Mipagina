@@ -1,2 +1,2 @@
 # Mipagina
-Página que diseñé usando html y css.
+Página que diseñé usando html.
